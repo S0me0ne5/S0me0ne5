@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0me0ne5
 - 👀 I’m interested in: Coding
-- 🌱 I’m currently learning: How To Coding
+- 🌱 I’m currently learning: How To Code
 - 💞️ I’m looking to collaborate on: Coding Projects
 - 📫 How to reach me: Github
 - ⚡ Fun fact: Did I mention I am interseted in coding?
