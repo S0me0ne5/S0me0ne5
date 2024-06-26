@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Coding
 - 🌱 I’m currently learning: How To Code
 - 💞️ I’m looking to collaborate on: Coding Projects
-- 📫 How to reach me: Github
+- 📫 How to reach me: Coming soon!
 - ⚡ Fun fact: Did I mention I am interseted in coding?
 
 <!---
